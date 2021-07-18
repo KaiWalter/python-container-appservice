@@ -1,5 +1,6 @@
 # Docs for the Azure Web Apps Deploy action: https://go.microsoft.com/fwlink/?linkid=2134798
 # More GitHub Actions for Azure: https://go.microsoft.com/fwlink/?linkid=2135048
+# https://docs.microsoft.com/en-us/azure/app-service/configure-language-python
 
 name: Azure App Service - cz-kw-python-webapp(Production), Build and deploy Python app
 
