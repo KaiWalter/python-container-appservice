@@ -17,7 +17,12 @@
                 "run",
                 "--no-debugger"
             ],
-            "jinja": true
+            "jinja": true,
+            "serverReadyAction": {
+                "pattern": "Running on http.*:([0-9]+)",
+                "uriFormat": "http://localhost:%s",
+                "action": "openExternally"
+              }
         }
     ]
 }
